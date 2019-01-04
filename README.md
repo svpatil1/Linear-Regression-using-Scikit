@@ -1,8 +1,10 @@
 # Linear-Regression-using-Scikit
 
-Goal: To perform Linear regression on Iris dataset of the scikit library.
+###### Goal: 
 
-Results:
+To perform Linear regression on Iris dataset of the scikit library.
+
+###### Results:
 
 Mean squared error: 1.20
 
