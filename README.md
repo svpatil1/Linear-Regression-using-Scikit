@@ -1,8 +1,8 @@
 # Linear-Regression-using-Scikit
 
-Performed Linear regression on Iris dataset of the scikit library.
+Goal: To perform Linear regression on Iris dataset of the scikit library.
 
-The results are as follows,
+Results:
 Mean squared error: 1.20
 
 Variance score: -0.70
